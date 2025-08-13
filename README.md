@@ -62,8 +62,7 @@
 
   <!-- 푸터 -->
   <footer>
-    © 2025 EcoWear Inc. | 지속 가능한 패션을 위해. 
-    Made by Chaehyeon Park.
+    © 2025 EcoWear Inc. | Made by Chaehyeon Park.
   </footer>
 
 </body>
